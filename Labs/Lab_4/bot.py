@@ -4,9 +4,9 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup, Callbac
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes, CallbackQueryHandler, CallbackContext, ConversationHandler
 
 
-bot_token: Final = "6443192996:AAHAv6gGgn48dH5K_yAlWZlRgTWFMyB2FVw"
-bot_name: Final = "@Third_laba_bot"
-currency_api_key: Final = "cd793f17a8625bb128df5b67"
+bot_token: Final = ""
+bot_name: Final = ""
+currency_api_key: Final = ""
  
 STATE_START = 1
 STATE_MENU = 2
