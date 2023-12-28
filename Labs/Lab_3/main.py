@@ -4,8 +4,8 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup, Callbac
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes, CallbackQueryHandler, CallbackContext
 
 
-bot_token: Final = "6443192996:AAHAv6gGgn48dH5K_yAlWZlRgTWFMyB2FVw"
-bot_name: Final = "@Third_laba_bot"
+bot_token: Final = ""
+bot_name: Final = ""
 
 
 #Commands
